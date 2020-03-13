@@ -5,6 +5,8 @@
         <group>
             <file>file:/D:/repos/proyectos/g1_soap/web/index.html</file>
             <file>file:/D:/repos/proyectos/g1_soap/src/java/com/g1/soap/ClienteService.java</file>
+            <file>file:/D:/repos/proyectos/g1_soap/src/java/com/g1/soap/Cliente.java</file>
+            <file>file:/D:/repos/proyectos/g1_soap/src/java/com/g1/soap/ClienteController.java</file>
         </group>
     </open-files>
 </project-private>
